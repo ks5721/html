@@ -27,7 +27,8 @@ section {
 }
 
 h1 {
-  font-size: 85px;
+  font-size: 75px;
+  font-weight: bold;
   text-align: center;
   font-family: 'Nanum Pen Script', cursive;
   padding: 30px 30px 30px 30px;
