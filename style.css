@@ -30,10 +30,12 @@ h1 {
   font-size: 75px;
   font-weight: bold;
   text-align: center;
-  font-family: 'Yeon Sung', cursive;
+  font-family: 'Jua', sans-serif;
   padding: 30px 30px 30px 30px;
 
 }
+
+
 
 h1,
 h2,
@@ -43,7 +45,7 @@ h5,
 h6 {
   color: #323232;
   font-weight: 1500; 
-  font-family: 'Black Han Sans', sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
 }
 
 p {
